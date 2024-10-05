@@ -10,7 +10,7 @@ export class EventBind extends Component {
   }
   onClickHandler(){
     this.setState({
-      message:"Goodbye"
+      message:"Goodbye jaani"
     })
   }
   render() {
